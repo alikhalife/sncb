@@ -1,0 +1,75 @@
+main {
+    width: 100%;
+}
+body{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+button {
+    border-radius: 5px;
+    width: 255px;
+    height: 52px;
+    border: 0;
+    background-color: #FC593B;
+    color: white;
+    font-size: 18px;
+    font-family: Circular Std;
+    padding: 14px 30px 13px;
+    margin-bottom: 15px;
+    text-align: center;
+    
+  }
+
+  a {
+      text-decoration: none;
+      color:#006AB3;
+  }
+
+  form {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      padding-bottom: 15px;
+  }
+
+.img {
+    background-image: url("/assets/img/4_students_campus.png");
+    width: 370px;
+    height: 90px;
+}
+
+.center {
+      text-align: center;
+  }
+.center2 {
+    margin-top: 0.8rem;
+}
+
+.logo {
+    width: 35px;
+    height: 25px;
+    padding-top: 10px;
+}
+
+.flex-header {
+    display: flex;
+    gap: 20px;
+}
+.flex-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.flex-center {
+display: flex;
+width: 100%;
+justify-content: center;
+}
+.bg-light-blue {
+    background-color: rgb(221,240,250);
+    width: 100%;
+}
+/* .bg-dark-blue {
+    background-color: #006AB3;
+    width: 100%;
+} */
