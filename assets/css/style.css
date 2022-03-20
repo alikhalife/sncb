@@ -33,7 +33,7 @@ button {
   }
 
 .img {
-    background-image: url("./assets/img/4_students_campus.png");
+    background-image: url("/assets/img/4_students_campus.png");
     width: 370px;
     height: 90px;
 }
@@ -68,6 +68,7 @@ justify-content: center;
 .bg-light-blue {
     background-color: rgb(221,240,250);
     width: 100%;
+    padding: 1rem;
 }
 /* .bg-dark-blue {
     background-color: #006AB3;
